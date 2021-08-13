@@ -1,8 +1,15 @@
-@import url("https://mwittrien.github.io/BetterDiscordAddons/Themes/_res/UsrBgs.css");
-@import url("https://AlexisJonsson.github.io/BetterDiscordAddons/Themes/modern-discord.theme.source.css");
+/**
+ * @name Modern Discord Theme
+ * @author Klei | Kleiton#9346
+ * @version 21.07.22
+ * @description A decluttered, simple, and modern theme for Discord.
+*/
+
+@import url("https://Anonimo8.github.io/Theme_modern_ds/UsrBgs.css");
+@import url("https://Anonimo8.github.io/Theme_modern_ds/modern-discord.theme.source.css");
 
 :root {
-    /*My Account Button*/
+    /*Account Button*/
     --username-button-width: 128px; /* Adjust the with of the username button to match your discord username lenght */
     --username-button-padding: 6px; /* Padding for the username button */
     --username-button-right-margin: 12px; /* Width between the username button and the window controls */
